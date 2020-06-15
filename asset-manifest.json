@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/team-rolodex/static/css/main.93170c35.chunk.css",
+    "main.js": "/team-rolodex/static/js/main.4e2dd15d.chunk.js",
+    "main.js.map": "/team-rolodex/static/js/main.4e2dd15d.chunk.js.map",
+    "runtime-main.js": "/team-rolodex/static/js/runtime-main.de46c542.js",
+    "runtime-main.js.map": "/team-rolodex/static/js/runtime-main.de46c542.js.map",
+    "static/js/2.5206ad0e.chunk.js": "/team-rolodex/static/js/2.5206ad0e.chunk.js",
+    "static/js/2.5206ad0e.chunk.js.map": "/team-rolodex/static/js/2.5206ad0e.chunk.js.map",
+    "index.html": "/team-rolodex/index.html",
+    "precache-manifest.52f33b785dbd22742e629932d0c24b0e.js": "/team-rolodex/precache-manifest.52f33b785dbd22742e629932d0c24b0e.js",
+    "service-worker.js": "/team-rolodex/service-worker.js",
+    "static/css/main.93170c35.chunk.css.map": "/team-rolodex/static/css/main.93170c35.chunk.css.map",
+    "static/js/2.5206ad0e.chunk.js.LICENSE.txt": "/team-rolodex/static/js/2.5206ad0e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/team-rolodex/static/media/bg.e7352946.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de46c542.js",
+    "static/js/2.5206ad0e.chunk.js",
+    "static/css/main.93170c35.chunk.css",
+    "static/js/main.4e2dd15d.chunk.js"
+  ]
+}
