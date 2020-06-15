@@ -1,0 +1,17 @@
+{
+  "team": [
+    { "id": 1, "name": "Bjarne Stroustrup", "website": "https://www.stroustrup.com" },
+    { "id": 2, "name": "Elon Musk", "website": "https://www.tesla.com/elon-musk" },
+    { "id": 3, "name": "Bernardo Kastrup", "website": "https://www.bernardokastrup.com" },
+    { "id": 4, "name": "Linus B. Torvalds", "website": "https://www.bernardokastrup.com" },
+    { "id": 5, "name": "Barbara Liskov", "website": "https://www.csail.mit.edu/person/barbara-liskov" },
+    { "id": 6, "name": "Donald E. Knuth", "website": "https://www-cs-faculty.stanford.edu/~knuth" },
+    { "id": 7, "name": "Dennis Ritchie", "website": "https://www.bell-labs.com/usr/dmr/www" },
+    { "id": 8, "name": "Robert E. Kahn", "website": "https://www.cnri.reston.va.us/bios/kahn.html" },
+    { "id": 9, "name": "Tim Berners-Lee", "website": "https://www.w3.org/People/Berners-Lee" },
+    { "id": 10, "name": "Guido van Rossum", "website": "https://gvanrossum.github.io" },
+    { "id": 11, "name": "Brendan Eich", "website": "https://brendaneich.com" },
+    { "id": 12, "name": "Marvin Minsky", "website": "https://web.media.mit.edu/~minsky" },
+    { "id": 13, "name": "Alan Kay", "website": "https://en.wikipedia.org/wiki/Alan_Kay" }
+  ]
+}

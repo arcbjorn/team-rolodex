@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background: url(./img/bg.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.h1 {
+  font-size: 56px;
+  font-weight: 500;
+  padding: 10vh;
+}
+
+h2 {
+  font-weight: 500;
+}
